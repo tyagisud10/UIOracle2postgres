@@ -1,0 +1,57 @@
+.form-wrapper {
+    width: 90%;
+    background: #f5f5ff;
+    padding: 60px;
+    border-radius: 30px;
+    position: relative;
+    margin: 100px auto auto;
+    overflow: hidden;
+}
+.form-input-wrapper h3, .form-input-wrapper h4{
+    text-transform: uppercase;
+}
+.submit-btn-div {
+    display: inline-block;
+    width: 100%;
+    margin-top: 30px;
+}
+.api-error-message {
+    background-color: #F00D34;
+    padding: 10px;
+    border-radius: 6px;
+}
+.api-error-message > p {
+    color: #ffffff;
+}
+.error_help_container {
+    background: #f00e34;
+    color: #fff;
+    font-size: 21px;
+    border-radius: 5px;
+    padding: 8px;
+}
+.error_help_txt {
+    display: inline-block;
+    vertical-align: middle;
+}
+.error_icons {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 20px;
+}
+.error_txt1{
+    display: block;
+}
+span.error_txt2 {
+    color: #ffc275;
+}
+.drop_file_wrapper{
+    text-align: center;
+    margin: auto;
+}
+.form-wrapper .configuration-box {
+    width: 33%;
+    float: left;
+    margin: auto;
+    display: inline-block;
+}

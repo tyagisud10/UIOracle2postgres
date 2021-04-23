@@ -1,0 +1,76 @@
+@media (min-width: 1265px) {
+    .container {
+        max-width: 1425px !important;
+        width: inherit;
+        margin: auto;
+    }
+}
+.img-responsive{
+    max-width: 100%;
+}
+
+.form-constant {
+    text-align: center;
+}
+.main_wrapper {
+    min-height: 750px;
+}
+.orange-btn {
+    border: solid 1px #ff6600;
+    background: #ff6600;
+}
+h2.montserrat {
+    color: #fff;
+    font-size: 67px;
+    font-weight: 700;
+}
+.search-box input, .search-box select {
+    font-size: 20px;
+    color: #2f2f31;
+    font-weight: 400;
+    width: 300px;
+    padding: 10px 20px;
+}
+.search-box{
+    display: inline-block;
+    vertical-align: middle;
+    min-height: 52px;
+}
+
+.form-input-wrapper .container > div {
+    background-color: #d4f1fe !important;
+    border-radius: 10px !important;
+    margin: 10px 0px;
+}
+.form-input-wrapper .container .fileheading{
+    color: #444;
+    font-weight: 700;
+    font-size: 20px;
+}
+.form-input-wrapper .container aside ul {
+    background-color: #fff;
+    border: solid 2px #f3cb4f;
+    border-radius: 5px;
+    margin-top: 30px;
+    text-align: left;
+    padding: 10px;
+    position: relative;
+}
+.form-input-wrapper .container aside ul{
+    list-style: none;
+    padding-left: 0px;
+}
+.form-input-wrapper .container aside ul li{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    position: relative;
+}
+.form-input-wrapper .container aside ul li {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    border-bottom: solid 2px #f3cb4f;
+    padding: 20px 40px 20px 0px;
+    font-weight: 600;
+}

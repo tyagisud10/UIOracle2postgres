@@ -1,0 +1,30 @@
+/* footer css */
+.footer-items{
+    float: left;
+    width: 33.33%;
+}
+.footer-items ul{
+    padding-left: 0px;
+    list-style: none;
+}
+.footer-items ul li{
+    font-size: 20px;
+}
+.footer-logo {
+    width: 300px;
+}
+.footer-constant{
+    border-top: solid 1px #ccc;
+    padding-top: 25px;
+}
+.footer-text {
+    font-weight: 700;
+    font-size: 20px;
+}
+.footer-bottom-text{
+    width: 100%;
+    text-align: center;
+    clear: both;
+    font-size: 20px;
+}
+/* footer css end */
